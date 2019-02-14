@@ -1,0 +1,21 @@
+body {
+	background-color: silver;
+}
+
+header {
+	padding: 20px;
+	background-color: wheat;
+}
+
+#content {
+	background: #fff;
+	padding: 20px;
+}
+
+footer {
+	background: green; 
+}
+
+.standard {
+	background: red;
+}
